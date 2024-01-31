@@ -1,0 +1,1 @@
+# linguagem-natural-texto
