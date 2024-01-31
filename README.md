@@ -19,3 +19,6 @@ Figura 2: representa a continuação da análise do trecho de comentário em um 
 
 Como continuidade da primeira imagem, nesse trecho do texto a inteligência artificial reconhece 92% de sentenças positivas.
 Portanto, classifica o texto como majoritariamente positivo.
+
+
+## Análise do segundo texto:
