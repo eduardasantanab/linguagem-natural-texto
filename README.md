@@ -6,11 +6,8 @@
 
 Figura 1: representa o trecho de comentário em um vídeo na rede social do Youtube.
 
-
 No texto da primeira imagem, aplicado primeiramente para o idioma inglês, reconhece palavras positivas como "enjoyed" e
 o seu relacionamento com o contexto inserido em "video".
-
-
 
 <img src="print_resultados/relato_youtuber2.png"/>
 
@@ -22,3 +19,12 @@ Portanto, classifica o texto como majoritariamente positivo.
 
 
 ## Análise do segundo texto:
+
+<img src="print_resultados/comentario_playlist.png"/>
+Figura 3: reconhece 99% de conteúdo positivo no trecho de texto em português.
+
+<img src="print_resultados/comentario_playlist1.png"/>
+Figura 4: relaciona o sentimento ou opinião, a partir da palavra "maravilhosa", com o contexto envolvido "playlist".
+
+
+
