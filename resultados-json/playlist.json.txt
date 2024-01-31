@@ -1,0 +1,128 @@
+{
+    "documents": [
+        {
+            "id": "id__24378",
+            "sentiment": "positive",
+            "confidenceScores": {
+                "positive": 0.99,
+                "neutral": 0,
+                "negative": 0.01
+            },
+            "sentences": [
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.97,
+                        "neutral": 0.01,
+                        "negative": 0.02
+                    },
+                    "offset": 0,
+                    "length": 278,
+                    "text": "17/05/23. Exatamente 8:30h, me preparo para mais um dia de estudo após o café, ligo o computador, arrumo-me e faço os ajustes rotineiros na mesa de estudo, hoje me imponho a estudar escutando algum tipo de musica que me dê uma certa tranquilidade nesse momento de concentração. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 278,
+                    "length": 77,
+                    "text": "Logo na primeira pesquisa tenho como recomendação essa playlist maravilhosa. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 333,
+                            "length": 8,
+                            "text": "playlist",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/1/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 342,
+                            "length": 11,
+                            "text": "maravilhosa",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 355,
+                    "length": 67,
+                    "text": "Com certeza essa playlist marca um momento incrível na minha vida. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 422,
+                    "length": 37,
+                    "text": "Obrigo por essa playlist Maravilhosa!",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 438,
+                            "length": 8,
+                            "text": "playlist",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/3/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 447,
+                            "length": 11,
+                            "text": "Maravilhosa",
+                            "isNegated": false
+                        }
+                    ]
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
